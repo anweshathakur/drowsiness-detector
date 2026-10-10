@@ -1,0 +1,26 @@
+# Solutions (keep instructor answers private)
+*Solution*
+*solution*
+*_sol.*
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python & Jupyter Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+Untitled*.ipynb
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE config
+.vscode/
+.idea/
