@@ -1,3 +1,5 @@
+# Ignore solution PDF
+*Solution*.pdf
 
 # Virtual Environments
 .venv/
